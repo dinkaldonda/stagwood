@@ -10,7 +10,7 @@ const Record = () => {
         </div>
         <div className=" w-100 h-50 d-flex align-items-center justify-content-center  py-2">
             <div className="col-md-2 micIcon text-white">
-            <i className="fa fa-microphone" aria-hidden="true"></i>
+            <i className="fa fa-facebook" aria-hidden="true"></i>
             </div>
         </div>
      </div>
